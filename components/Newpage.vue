@@ -1,3 +1,3 @@
 <temlate>
-  <div></div>
+  <div>あ</div>
 </temlate>
