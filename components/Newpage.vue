@@ -1,3 +1,3 @@
-<temlate>
+<template>
   <div></div>
-</temlate>
+</template>
